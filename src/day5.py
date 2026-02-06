@@ -4,6 +4,3 @@ def calc_rectangle(length, width):
     return area,perimeter
 print(f"Area and perimeter of rectangle:",calc_rectangle(5,3))
 
-
-
-
