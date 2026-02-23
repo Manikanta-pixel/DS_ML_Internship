@@ -1,4 +1,4 @@
-name = "kumar"
+name = "mani"
 age = 45
 perc = 6.66
 
