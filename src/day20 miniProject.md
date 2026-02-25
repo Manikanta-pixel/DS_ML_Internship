@@ -1,10 +1,10 @@
-# Phase 1: Understanding the Dataset
+ # Phase 1: Understanding the Dataset
 This dataset contains customer-level information including demographic attributes and spending behavior.
 
 Each row represents one individual customer.
 
 # Phase 2: Data Cleaning and Preprocessing
-The dataset was checked for missing values using `.isnull().sum()`.
+The dataset was checked for missing values using .isnull().sum().
 
 Missing values were handled using appropriate methods. In this case, missing values were replaced with 0 for simplicity.
 
